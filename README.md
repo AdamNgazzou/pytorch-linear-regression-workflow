@@ -27,6 +27,6 @@ This notebook was built as part of my personal learning and skill demonstration 
 ## 🙋‍♂️ Author
 
 **Adem Ngazzou**  
-[GitHub](https://github.com/AdamNgazzou) | [LinkedIn](https://www.linkedin.com/in/adamngazzou)
+[GitHub](https://github.com/AdamNgazzou) | [LinkedIn](https://www.linkedin.com/in/adam-ngazzou)
 
 
